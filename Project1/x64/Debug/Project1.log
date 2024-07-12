@@ -1,0 +1,25 @@
+﻿  Game.cpp
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(133,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(138,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(165,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(167,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(170,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(176,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(179,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(198,137): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(198,105): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(198,68): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(475,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(481,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(601,91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(601,63): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(606,112): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(606,89): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(606,61): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(640,91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(640,63): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(644,112): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(644,89): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(644,61): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\warac\source\repos\Project1\Project1\Game.cpp(534): warning C4172: returning address of local variable or temporary
+  Project1.vcxproj -> C:\Users\warac\source\repos\Project1\x64\Debug\Project1.exe
